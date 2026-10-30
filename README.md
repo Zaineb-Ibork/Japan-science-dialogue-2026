@@ -5,7 +5,6 @@
 コンピューターに「人の見方」を教える
 
 🔗 **Website:** https://zaineb-ibork.github.io/Japan-science-dialogue-2026/
-📥 **Slides (PDF, 5 MB, 43 slides):** [Ibork_ScienceDialogue_Utsunomiya_2026.pdf](Ibork_ScienceDialogue_Utsunomiya_2026.pdf)
 
 ![Title slide](cover.jpg)
 
